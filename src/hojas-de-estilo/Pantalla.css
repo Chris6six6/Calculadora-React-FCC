@@ -1,0 +1,20 @@
+.input {
+    height: 70px; /* Ajusta la altura según sea necesario */
+    border-radius: 15px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column; /* Establece la dirección del contenedor como vertical */
+    align-items: flex-end; /* Alinea los elementos al final del contenedor verticalmente */
+    justify-content: flex-end; /* Alinea los elementos al final del contenedor horizontalmente */
+    font-weight: bold;
+    font-size: 30px;
+    background-color: black;
+    color: aliceblue;
+    padding: 11px 30px 11px 11px;
+    box-shadow: -1px 2px 1px 1px white;
+}
+
+
+.input #input {
+    font-size: 25px; /* Tamaño de fuente más pequeño para la expresión */
+}
